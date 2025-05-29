@@ -17,7 +17,7 @@ Built using:
 3. Run all cells
 
 ## Demo Query
-> "Explain how AI is used in healthcare and give two examples."
+> "Explain how Data Science is used in Legal Practice and give two examples."
 
 ## Output
 - Subtasks planned
